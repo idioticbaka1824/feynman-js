@@ -1,1 +1,1 @@
-This is a standalone version of the tool you can find here: [https://raadshaikh.github.io/feynman-js/fjs-index.html](https://raadshaikh.github.io/feynman-js/fjs-index.html)
+This is a standalone version of the tool you can find here: [https://idioticbaka1824.github.io/feynman-js/fjs-index.html](https://idioticbaka1824.github.io/feynman-js/fjs-index.html)
